@@ -1,0 +1,16 @@
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.exe
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.deps.json
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.runtimeconfig.json
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.dll
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\ref\test.dll
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\bin\Debug\net5.0\test.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.csprojAssemblyReference.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.dll
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\ref\test.dll
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\test\obj\Debug\net5.0\test.genruntimeconfig.cache
