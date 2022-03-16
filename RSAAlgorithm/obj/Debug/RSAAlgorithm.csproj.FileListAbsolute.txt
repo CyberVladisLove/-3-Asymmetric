@@ -5,3 +5,11 @@ C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgo
 C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.csproj.GenerateResource.Cache
 C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.exe
 C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\bin\Debug\RSAAlgorithm.exe
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\bin\Debug\RSAAlgorithm.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.csprojAssemblyReference.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.RSAAlgorithm.resources
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.csproj.GenerateResource.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.csproj.CoreCompileInputs.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.exe
+F:\University\Current\Информационная безопасность\Лабы\Лр3 Asymmetric\RSAAlgorithm\obj\Debug\RSAAlgorithm.pdb

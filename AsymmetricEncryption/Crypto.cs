@@ -37,6 +37,9 @@ namespace AsymmetricEncryption
             return rsa;
         }
 
+
+
+        //ниже из 4 лабы
         public static string CreateEDS(DSACryptoServiceProvider dsa, string content)
         {
             byte[] hashbytes = CreateHashBytesBySHA1(content);

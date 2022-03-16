@@ -23,19 +23,13 @@ namespace AsymmetricEncryption
         {
             this.me = me;
             this.n = n;
-        }
-
-        
+        }        
         
         public byte[] LetsEncryptByNeighbour(byte[] plainbytes)
         {
             EncryptedData = n.Encrypt(plainbytes);
             return EncryptedData;
         }
-        
-
-        
-
         
     }
 }

@@ -45,6 +45,8 @@ namespace AsymmetricEncryption
                 path = openFileDialog1.FileName;
             return path;
         }
+
+        //остальное не надо
         public static byte[] GetFileContentByte(string path)//чтение файла, результат байты
         {
             FileStream fs = File.OpenRead(path);

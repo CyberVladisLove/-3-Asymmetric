@@ -21,6 +21,6 @@ namespace AsymmetricEncryption
             Crypto.WriteKey(RSAalg, true);
         }
         public byte[] Decrypt(byte[] cypherbytes) => RSAalg.Decrypt(cypherbytes, false);    
-        public byte[] Encrypt(byte[] plainbytes) => RSAalg.Encrypt(plainbytes, false);        
+       // public byte[] Encrypt(byte[] plainbytes) => RSAalg.Encrypt(plainbytes, false); не нужен    
     }
 }
